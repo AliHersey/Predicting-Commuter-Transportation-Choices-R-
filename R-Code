@@ -104,7 +104,7 @@ legend("topright", legend = c("Current Mean Train Ticket Price",
     border = "black", lty = c("solid", "dashed"), cex = 1.25)
 dev.off()
 
-# Suggestions for to look in to:
+# Suggestions to look in to:
 # How much lower must train fares be to encourage more than 60 percent
 # of Sydney commuters to take the train? What about car costs? How much
 # of a tax would public administrators have to impose in order to have
